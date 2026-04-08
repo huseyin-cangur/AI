@@ -15,7 +15,7 @@ VS Code tabanlı bir editör. Tüm kod tabanını indeksleyip anlıyor, bu sayed
 
 Background Agent özelliğiyle arka planda görev yürütebiliyor; ancak kritik adımlarda (commit, push gibi) genellikle kullanıcı onayı istiyor. CI/CD entegrasyonu doğrudan mevcut değil.
 
-Yazılım ekipleri için en popüler seçim. VS Code'dan geçiş neredeyse sıfır sürtünmeli.
+Yazılım ekipleri için en popüler seçim. Geçiş maliyeti düşük.
 
 ---
 
